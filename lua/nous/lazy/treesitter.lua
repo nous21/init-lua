@@ -15,7 +15,8 @@ return {
                     "lua",
                     "go",
                     "nix",
-                    "java"
+                    "java",
+                    "dart"
                 },
                 sync_install = false,
 
